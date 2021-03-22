@@ -48,3 +48,6 @@ C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\obj\Debug\net5.0\C
 C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\obj\Debug\net5.0\ref\CircuitBreaker.Client.dll
 C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\obj\Debug\net5.0\CircuitBreaker.Client.pdb
 C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\obj\Debug\net5.0\CircuitBreaker.Client.genruntimeconfig.cache
+C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\bin\Debug\net5.0\Model.dll
+C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\bin\Debug\net5.0\Model.pdb

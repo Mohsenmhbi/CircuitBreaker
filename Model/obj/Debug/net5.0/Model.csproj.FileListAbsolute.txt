@@ -14,7 +14,6 @@ C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Model\bin\Debug\net5.0\Mo
 C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Model\bin\Debug\net5.0\Model.dll
 C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Model\bin\Debug\net5.0\ref\Model.dll
 C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Model\bin\Debug\net5.0\Model.pdb
-C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Model\obj\Debug\net5.0\Model.csprojAssemblyReference.cache
 C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
 C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs

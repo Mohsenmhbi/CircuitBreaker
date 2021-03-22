@@ -23,11 +23,9 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "CircuitBreaker.Client/1.0.0": {
+      "CircuitBreaker.Server/1.0.0": {
         "dependencies": {
           "Model": "1.0.0",
-          "Newtonsoft.Json": "12.0.3",
-          "Polly": "7.2.1",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -313,32 +311,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "CircuitBreaker.Client.dll": {}
+          "CircuitBreaker.Server.dll": {}
         },
         "compile": {
-          "CircuitBreaker.Client.dll": {}
-        }
-      },
-      "Newtonsoft.Json/12.0.3": {
-        "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
-            "assemblyVersion": "12.0.0.0",
-            "fileVersion": "12.0.3.23909"
-          }
-        },
-        "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
-        }
-      },
-      "Polly/7.2.1": {
-        "runtime": {
-          "lib/netstandard2.0/Polly.dll": {
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.2.1.0"
-          }
-        },
-        "compile": {
-          "lib/netstandard2.0/Polly.dll": {}
+          "CircuitBreaker.Server.dll": {}
         }
       },
       "Model/1.0.0": {
@@ -2050,24 +2026,10 @@
     }
   },
   "libraries": {
-    "CircuitBreaker.Client/1.0.0": {
+    "CircuitBreaker.Server/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "Newtonsoft.Json/12.0.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
-      "path": "newtonsoft.json/12.0.3",
-      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
-    },
-    "Polly/7.2.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Od8SnPlpQr+PuAS0YzY3jgtzaDNknlIuAaldN2VEIyTvm/wCg22C5nUkUV1BEG8rIsub5RFMoV/NEQ0tM/+7Uw==",
-      "path": "polly/7.2.1",
-      "hashPath": "polly.7.2.1.nupkg.sha512"
     },
     "Model/1.0.0": {
       "type": "project",

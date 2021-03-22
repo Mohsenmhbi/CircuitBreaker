@@ -15,7 +15,7 @@ namespace CircuitBreaker.Server.Controllers
     {
        
             static int counter = 0;
-            [HttpGet]
+            [HttpGet("Index")]
             public IActionResult Index()
             {
                 return Ok(new Message
@@ -25,8 +25,8 @@ namespace CircuitBreaker.Server.Controllers
                 });
             }
 
-            [HttpGet]
-            public IActionResult Odd()
+        [HttpGet("Odd")]
+        public IActionResult Odd()
             {
                 counter += 1;
                 if (counter % 2 != 0)
@@ -45,8 +45,8 @@ namespace CircuitBreaker.Server.Controllers
 
             }
 
-            [HttpGet]
-            public IActionResult Ten()
+        [HttpGet("Ten")]
+        public IActionResult Ten()
             {
                 counter += 1;
                 if (counter % 10 == 0)
@@ -64,8 +64,8 @@ namespace CircuitBreaker.Server.Controllers
                 });
 
             }
-            [HttpGet]
-            public IActionResult Long()
+        [HttpGet("Long")]
+        public IActionResult Long()
             {
                 Stopwatch stopwatch = new Stopwatch();
                 stopwatch.Start();
@@ -80,8 +80,8 @@ namespace CircuitBreaker.Server.Controllers
                 });
             }
 
-            [HttpGet]
-            public IActionResult Ex()
+        [HttpGet("Ex")]
+        public IActionResult Ex()
             {
                 throw new Exception("Exception in Application");
                 return Ok(new Message

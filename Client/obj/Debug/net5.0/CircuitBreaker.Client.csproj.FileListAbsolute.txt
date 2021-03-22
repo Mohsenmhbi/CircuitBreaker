@@ -51,3 +51,5 @@ C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\obj\Debug\net5.0\C
 C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\bin\Debug\net5.0\Model.dll
 C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\bin\Debug\net5.0\Model.pdb
+C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Mohsen Developer\source\repos\CircuitBreaker3\Client\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "Home/Index",
+      "launchUrl": "Home",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,8 +20,8 @@
     "CircuitBreaker.Client": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "Home/Index",
-      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "launchUrl": "Home",
+      "applicationUrl": "https://localhost:5003",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

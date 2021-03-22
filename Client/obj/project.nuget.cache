@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OSqgOnz+FZm0g8ky8cnGbvYISfJrGA4I1iNoxI78sx8XiX+fPNk3lkjasX8MKlPR5gaX0T27ajo7p8efpsuLvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohsen Developer\\source\\repos\\CircuitBreaker3\\Client\\CircuitBreaker.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohsen Developer\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

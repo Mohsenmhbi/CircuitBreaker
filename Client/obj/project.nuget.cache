@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OSqgOnz+FZm0g8ky8cnGbvYISfJrGA4I1iNoxI78sx8XiX+fPNk3lkjasX8MKlPR5gaX0T27ajo7p8efpsuLvQ==",
+  "dgSpecHash": "ZxbYXf1An7bTGUlVJdwWQxsoCuE/CGK4xJuyUYEgQyrz7tQ3AzNjCyIELxW+zwgLq4q3ueUzKkhxwAz4w99lcQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mohsen Developer\\source\\repos\\CircuitBreaker3\\Client\\CircuitBreaker.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mohsen Developer\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Mohsen Developer\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512"
   ],
   "logs": []
